@@ -1,0 +1,27 @@
+.title{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.recipe{
+    background-color: aqua;
+    color: green;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.button{
+    background-color: red;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.image-size{
+    height: auto;
+    width: 600px;
+    
+}
