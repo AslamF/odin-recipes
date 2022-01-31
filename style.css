@@ -2,6 +2,7 @@
     background-color: green;
     color: white;
     font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
     
 }
 
@@ -18,10 +19,16 @@
     color: white;
     font-size: 35px;
     font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .image-size{
     height: auto;
     width: 600px;
     
+}
+
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px ;
 }
